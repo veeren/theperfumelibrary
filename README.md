@@ -1,6 +1,6 @@
 # Anthology Page
 
-`
+```html
 <div class="section-row"><!-- block 1 starts --> <div class="antho_block"> <div class="antho_img"><!-- *image here* --></div> <div class="antho_block_title"><!-- *Title here* --></div> <div class="antho_block_poem"><!-- *Poem here* -->
 
 </div> <div class="antho_block_ingredients"><!-- *ingredients here* --> </div> </div><!-- block 1 ends --><!-- block 2 starts --> <div class="antho_block"> <div class="antho_img"><!-- *image here* --></div> <div class="antho_block_title"><!-- *Title here* --></div> <div class="antho_block_poem"><!-- *Poem here* -->
@@ -8,7 +8,7 @@
 </div> <div class="antho_block_ingredients"><!-- *ingredients here* --> </div> </div><!-- block 2 ends --><!-- block 3 starts --> <div class="antho_block"> <div class="antho_img"><!-- *image here* --> </div> <div class="antho_block_title"><!-- *Title here* --></div> <div class="antho_block_poem"><!-- *Poem here* -->
 
 </div> <div class="antho_block_ingredients"><!-- *ingredients here* --> </div> </div> <!-- block 3 ends --></div>
-`
+```
 
 
 1. `<!-- *image here* -->` : Image of the pefume.
@@ -24,6 +24,7 @@ There are above elements in each block and each section contains 3 blocks in abo
 Remove text comes within "<!-- *" and "* -->" i.e ("<!-- *Title here* -->" to "aphtoori").
 
 Please try to maintain the spacing and indentation in the code. (reason being each return key (enter key) adds break in line and will add line space).
+
 
 # Press Page
 ```html
