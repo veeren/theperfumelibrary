@@ -1,12 +1,15 @@
+# Press Page
+```html
 <!-- For Only Image  -->
 <div class="project_block"><!-- *image here* --></div>
 <!-- Ends For Only Image  -->
-
- <!-- For image with link-->
+<!-- For image with link -->
 <div class="project_block">
 	<a href="<!-- *link here* -->" target="_blank"><!-- *image here* --></a>
 </div>
 <!-- ends For image with link-->
+
+```
 
 1. `<!-- *image here* -->` : Image of the article.
 3. `<!-- *link here* -->` : link of the article.
