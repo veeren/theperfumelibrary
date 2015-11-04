@@ -1,5 +1,6 @@
-__Please get the raw code by clcicking above html file and then click on raw tab on you Top Right__
-# Anthology Page
+_Please get the raw code by clcicking above html file and then click on raw tab on you Top Right_
+
+## Anthology Page
 
 ```html
 <div class="section-row"><!-- block 1 starts --> <div class="antho_block"> <div class="antho_img"><!-- *image here* --></div> <div class="antho_block_title"><!-- *Title here* --></div> <div class="antho_block_poem"><!-- *Poem here* -->
@@ -28,7 +29,7 @@ Remove text comes within "`<!-- *" and "* -->`" i.e ("`<!-- *Title here* -->`" t
 Please try to maintain the spacing and indentation in the code. (reason being each return key (enter key) adds break in line and will add line space).
 
 
-# Press Page
+## Press Page
 ```html
 <!-- For Only Image  -->
 <div class="project_block"><!-- *image here* --></div>
