@@ -1,5 +1,4 @@
-*__Please get the raw code by clcicking above html file and then click on raw tab on you Top Right__*
-*You can copy the code easily by going main root folder*
+__Please get the raw code by clcicking above html file and then click on raw tab on you Top Right__
 # Anthology Page
 
 ```html
@@ -11,7 +10,7 @@
 
 </div> <div class="antho_block_ingredients"><!-- *ingredients here* --> </div> </div> <!-- block 3 ends --></div>
 ```
-
+*You can copy the code easily by clicking on above html link of the page*
 
 * `<!-- *image here* -->` : Image of the pefume.
 * `<!-- *Title here* -->` : Title of the perfume.
@@ -31,7 +30,6 @@ Please try to maintain the spacing and indentation in the code. (reason being ea
 
 # Press Page
 ```html
-
 <!-- For Only Image  -->
 <div class="project_block"><!-- *image here* --></div>
 <!-- Ends For Only Image  -->
@@ -41,8 +39,8 @@ Please try to maintain the spacing and indentation in the code. (reason being ea
 	<a href="<!-- *link here* -->" target="_blank"><!-- *image here* --></a>
 </div>
 <!-- ends For image with link-->
-
 ```
+*You can copy the code easily by clicking on above html link of the page*
 
 1. `<!-- *image here* -->` : Image of the article.
 2. `<!-- *link here* -->` : link of the article.
