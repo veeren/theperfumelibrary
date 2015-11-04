@@ -17,13 +17,15 @@
 * `<!-- *ingredients here* -->` : Ingredients of the perfume.
 
 
-Image Size for horizontal image like used in ("FIRE" and "HASU NO HANA") : 305px X 450px
-Image Size for verticle image like used in ("CUIR OTTOMAN") : 225px X 450px
+Image Size for horizontal image like used in (`"FIRE" and "HASU NO HANA"`) : 305px X 450px.
+
+Image Size for verticle image like used in (`"CUIR OTTOMAN"`) : 225px X 450px.
 
 There are above elements in each block and each section contains 3 blocks in above code.
-Remove text comes within "<!-- *" and "* -->" i.e ("<!-- *Title here* -->" to "aphtoori").
+Remove text comes within "`<!-- *" and "* -->`" i.e ("`<!-- *Title here* -->`" to "aphtoori").
 
 Please try to maintain the spacing and indentation in the code. (reason being each return key (enter key) adds break in line and will add line space).
+
 
 # Press Page
 ```html
