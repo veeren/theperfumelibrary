@@ -1,5 +1,5 @@
-*Please get the raw code by clcicking above html file then click on raw tab on you Top Right*
-
+*__Please get the raw code by clcicking above html file and then click on raw tab on you Top Right__*
+*You can copy the code easily by going main root folder*
 # Anthology Page
 
 ```html
