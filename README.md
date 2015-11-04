@@ -11,10 +11,10 @@
 ```
 
 
-1. `<!-- *image here* -->` : Image of the pefume.
-2. `<!-- *Title here* -->` : Title of the perfume.
-3. `<!-- *Poem here* -->` : Poem of the perfume.
-4. `<!-- *ingredients here* -->` : Ingredients of the perfume.
+* `<!-- *image here* -->` : Image of the pefume.
+* `<!-- *Title here* -->` : Title of the perfume.
+* `<!-- *Poem here* -->` : Poem of the perfume.
+* `<!-- *ingredients here* -->` : Ingredients of the perfume.
 
 
 Image Size for horizontal image like used in ("FIRE" and "HASU NO HANA") : 305px X 450px
@@ -24,7 +24,6 @@ There are above elements in each block and each section contains 3 blocks in abo
 Remove text comes within "<!-- *" and "* -->" i.e ("<!-- *Title here* -->" to "aphtoori").
 
 Please try to maintain the spacing and indentation in the code. (reason being each return key (enter key) adds break in line and will add line space).
-
 
 # Press Page
 ```html
