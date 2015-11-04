@@ -1,6 +1,6 @@
 # Anthology Page
 
-```html
+`
 <div class="section-row"><!-- block 1 starts --> <div class="antho_block"> <div class="antho_img"><!-- *image here* --></div> <div class="antho_block_title"><!-- *Title here* --></div> <div class="antho_block_poem"><!-- *Poem here* -->
 
 </div> <div class="antho_block_ingredients"><!-- *ingredients here* --> </div> </div><!-- block 1 ends --><!-- block 2 starts --> <div class="antho_block"> <div class="antho_img"><!-- *image here* --></div> <div class="antho_block_title"><!-- *Title here* --></div> <div class="antho_block_poem"><!-- *Poem here* -->
@@ -8,7 +8,7 @@
 </div> <div class="antho_block_ingredients"><!-- *ingredients here* --> </div> </div><!-- block 2 ends --><!-- block 3 starts --> <div class="antho_block"> <div class="antho_img"><!-- *image here* --> </div> <div class="antho_block_title"><!-- *Title here* --></div> <div class="antho_block_poem"><!-- *Poem here* -->
 
 </div> <div class="antho_block_ingredients"><!-- *ingredients here* --> </div> </div> <!-- block 3 ends --></div>
-```
+`
 
 
 1. `<!-- *image here* -->` : Image of the pefume.
