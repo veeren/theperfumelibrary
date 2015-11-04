@@ -1,3 +1,30 @@
+# Anthology Page
+
+```html
+<div class="section-row"><!-- block 1 starts --> <div class="antho_block"> <div class="antho_img"><!-- *image here* --></div> <div class="antho_block_title"><!-- *Title here* --></div> <div class="antho_block_poem"><!-- *Poem here* -->
+
+</div> <div class="antho_block_ingredients"><!-- *ingredients here* --> </div> </div><!-- block 1 ends --><!-- block 2 starts --> <div class="antho_block"> <div class="antho_img"><!-- *image here* --></div> <div class="antho_block_title"><!-- *Title here* --></div> <div class="antho_block_poem"><!-- *Poem here* -->
+
+</div> <div class="antho_block_ingredients"><!-- *ingredients here* --> </div> </div><!-- block 2 ends --><!-- block 3 starts --> <div class="antho_block"> <div class="antho_img"><!-- *image here* --> </div> <div class="antho_block_title"><!-- *Title here* --></div> <div class="antho_block_poem"><!-- *Poem here* -->
+
+</div> <div class="antho_block_ingredients"><!-- *ingredients here* --> </div> </div> <!-- block 3 ends --></div>
+```
+
+
+1. `<!-- *image here* -->` : Image of the pefume.
+2. `<!-- *Title here* -->` : Title of the perfume.
+3. `<!-- *Poem here* -->` : Poem of the perfume.
+4. `<!-- *ingredients here* -->` : Ingredients of the perfume.
+
+
+Image Size for horizontal image like used in ("FIRE" and "HASU NO HANA") : 305px X 450px
+Image Size for verticle image like used in ("CUIR OTTOMAN") : 225px X 450px
+
+There are above elements in each block and each section contains 3 blocks in above code.
+Remove text comes within "<!-- *" and "* -->" i.e ("<!-- *Title here* -->" to "aphtoori").
+
+Please try to maintain the spacing and indentation in the code. (reason being each return key (enter key) adds break in line and will add line space).
+
 # Press Page
 ```html
 
