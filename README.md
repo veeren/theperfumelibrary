@@ -52,7 +52,7 @@ Remove text comes within "`<!-- *" and "* -->`" i.e ("`<!-- *image here* -->`" t
 Please try to maintain the spacing and indentation in the code. (reason being each return key (enter key) adds break in line and will add line space).
 #
 ## PLEASE NOTE :
-_You can get the raw code by clcicking above html file and then click on raw tab on you Top Right_
+_You can get the raw code by clicking above html file and then click on raw tab on you Top Right_
 
 `or`
 
